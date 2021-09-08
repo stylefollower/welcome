@@ -189,13 +189,14 @@ body {
   width: 1080px;
   height: 130px;
   left: 0px;
-  top: 1790px;
   margin: auto;
   background: #FFFFFF;
   display: flex;
 }
 
 /*  
+
+top: 1790px;
 
 position: fixed;   
 width: 1080px;   
