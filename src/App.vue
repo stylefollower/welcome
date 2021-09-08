@@ -192,6 +192,7 @@ body {
   margin: auto;
   background: #FFFFFF;
   display: flex;
+  bottom: 0;
 }
 
 /*  
