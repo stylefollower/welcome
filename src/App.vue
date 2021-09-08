@@ -48,7 +48,7 @@ export default {
         beschreibung1: "Basisbeschäftigung",
         beschreibung2: "Interessierte für den zweiten Kurs werden uns besuchen",
         gsheet_url:
-        "https://sheets.googleapis.com/v4/spreadsheets/1qLZJwuNv3QmwGhSj1wZZbuXNOkDKN-Ha7fo0Ca_uVVU/values:batchGet?ranges=A1%3AE100&valueRenderOption=FORMATTED_VALUE&key=AIzaSyBesotaNgSaTUIhrSKjEaExdi-ksKInhoE",
+        "https://docs.google.com/spreadsheets/d/1lYh57rj8sk_K1ogDlPyK8LwG5aU3Y-WZUxmirFPMyfo/edit#gid=0",
         entries: [],
     };
   },
