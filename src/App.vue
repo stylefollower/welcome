@@ -185,7 +185,7 @@ body {
   /* Footer */
 
 .footer {
-  position: relative;
+  position: fixed;
   width: 1080px;
   height: 130px;
   left: 0px;
