@@ -193,6 +193,7 @@ body {
   background: #FFFFFF;
   display: flex;
   bottom: 0;
+  justify-content: space-between;
 }
 
 /*  
