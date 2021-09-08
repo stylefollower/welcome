@@ -185,7 +185,7 @@ body {
   /* Footer */
 
 .footer {
-  position: relative;
+  position: fixed;
   width: 1080px;
   height: 130px;
   left: 0px;
@@ -194,6 +194,16 @@ body {
   background: #FFFFFF;
   display: flex;
 }
+
+/*  
+
+position: fixed;   
+width: 1080px;   
+height: 130px;  
+margin: auto;   
+background: #FFFFFF;   
+display: flex;   
+bottom: 0;   */
 
   /* Assets */
 
